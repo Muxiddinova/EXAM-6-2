@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.login{
+    background-color: #FCFAFA;
+}
+
+.active{
+    background-color: #509CDB;
+    width: 241px;
+    border-radius: 4px;  
+}
